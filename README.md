@@ -14,7 +14,7 @@ Eğer bunu kullanarak online girerseniz ban yeme ihtimaliniz artar
 
 
 *Kurulum*
-
+Link: https://github.com/metehankaygsz/switch-tr/releases
 
 1)Switch konsolunuzun bölgesini Avrupa ve dilini İngilizce olarak ayarlayın
 
