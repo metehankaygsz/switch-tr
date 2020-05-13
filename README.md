@@ -1,4 +1,10 @@
 # switch-tr
+
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bmuwfdlgBCA/0.jpg)](http://www.youtube.com/watch?v=bmuwfdlgBCA)
+
+
+
 **First Fully Translated Turkish Switch Menu (İlk Kez Tamamen Türkçe Swich Home Menüsü)**
 
 ***Son güncelleme tarihi: 12 Mayıs 2020***
