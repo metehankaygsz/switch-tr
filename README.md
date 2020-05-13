@@ -1,7 +1,7 @@
 # switch-tr
 **First Fully Translated Turkish Switch Menu (İlk Kez Tamamen Türkçe Swich Home Menüsü)**
 
-***Son güncelleme tarihi: 13 Mayıs 2020
+***Son güncelleme tarihi: 13 Mayıs 2020***
 
 
 
@@ -18,16 +18,16 @@
 Switch için neredeyse tamamen (%98) çevirilmiş Home menüsü
 
 
-Hala bazı hatalar var (internet tarayıcısının çökmesi gibi ama gelecek sürümlerde düzeltilecek)
 
 
-Eğer bunu kullanarak online girerseniz ban yeme ihtimaliniz artar
+
+Bu yazılımı kullanarak online girmeniz tavsiye edilmez
 
 
-*Kurulum*
+# Kurulum
 
 
-Link: https://github.com/metehankaygsz/switch-tr/releases
+[İndir] (https://github.com/metehankaygsz/switch-tr/releases)
 
 1)Switch konsolunuzun bölgesini Avrupa ve dilini İngilizce olarak ayarlayın
 
@@ -49,7 +49,7 @@ Link: https://github.com/metehankaygsz/switch-tr/releases
 
 
 
-*Türkçe yamayı kaldırma* (herhangi bir problem olursa veya yeni bir sistem güncellemesi artık bu projeyi desteklemezse bunu yapın)
+# Türkçe yamayı kaldırma (herhangi bir problem olursa veya yeni bir sistem güncellemesi artık bu projeyi desteklemezse bunu yapın)
 
 
 
@@ -75,3 +75,12 @@ Link: https://github.com/metehankaygsz/switch-tr/releases
 
 
 Merak etmeyin herhangi bir brick riski yok eğer dediklerimi yaparsanız Türkçe yama SD kartta kalacak
+
+
+
+# Hata giderme
+
+
+
+Eğer bu yamayı yükledikten sonra Switch çöküyorsa SD karta attığınız dosyaları silin veya sistem sürümünün desteklenen sürümlerden biri olmasına dikkat edin.
+
