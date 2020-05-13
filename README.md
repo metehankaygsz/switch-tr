@@ -49,7 +49,7 @@ Bu yazılımı kullanarak online girmeniz tavsiye edilmez
 
 
 
-4)titles dosyası içindekileri titles dosyasının içine atın
+4)titles dosyası içindekileri titles veya  contents dosyasının içine atın
 
 
 
