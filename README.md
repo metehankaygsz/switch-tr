@@ -1,7 +1,7 @@
 # switch-tr
 **First Fully Translated Turkish Switch Menu (İlk Kez Tamamen Türkçe Swich Home Menüsü)**
 
-***Son güncelleme tarihi: 13 Mayıs 2020***
+***Son güncelleme tarihi: 12 Mayıs 2020***
 
 
 
