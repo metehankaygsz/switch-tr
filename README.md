@@ -27,7 +27,7 @@ Bu yazılımı kullanarak online girmeniz tavsiye edilmez
 # Kurulum
 
 
-[İndir] (https://github.com/metehankaygsz/switch-tr/releases)
+[Link](https://github.com/metehankaygsz/switch-tr/releases)
 
 1)Switch konsolunuzun bölgesini Avrupa ve dilini İngilizce olarak ayarlayın
 
