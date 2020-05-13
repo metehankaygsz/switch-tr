@@ -20,7 +20,7 @@
 ***-İlk sürüm***
 
 
-:video_game: ***-10.0.1,10.0.2 desteği***
+:video_game: ***-10.0.1,10.0.2 desteği*** Diğer sürümler denenmedi
 
 
 
