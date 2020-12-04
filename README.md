@@ -1,5 +1,5 @@
 # switch-tr
-***Şu an projeye yaklaşık 8 ay ara verdim ama gelecekte güncellemeler gelecek ve yama geliştirilecek
+***Şu an projeye yaklaşık 8 ay ara verdim ama gelecekte güncellemeler gelecek ve yama geliştirilecek***
 
 ## Video
 
