@@ -20,8 +20,7 @@
 ***-İlk sürüm***
 
 
-:video_game: ***-10.0.1,10.0.2 desteği*** Diğer sürümler denenmedi
-
+:video_game: ***-10.0.1,10.0.2,11.0.1 desteği*** (Atmosphere ve SX OS ile denendi)
 
 
 Switch için neredeyse tamamen (%98) çevirilmiş Home menüsü
