@@ -44,7 +44,7 @@ Bu yazılımı kullanarak online girmeniz tavsiye edilmez
 
 
 
-3)Atmosphere , ReiNX veya SXOS hangisini kullanıyorsanız SD karttaki bu dosyalardan birine girin (normalde zaten bir tanesi oluyor)
+3)Atmosphere , ReiNX veya SXOS hangisini kullanıyorsanız SD karttaki bu dosyalardan birine girin (normalde zaten bir tanesi oluyor yoksa kendiniz contents dosyasını oluşturun)
 
 
 
